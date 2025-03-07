@@ -9,9 +9,8 @@ This project is a Python-based simulation of **Conway's Game of Life** using **c
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Rules of the Game](#rules-of-the-game)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [References](#references)
+- [References](#-📚-references)
 
 ---
 
